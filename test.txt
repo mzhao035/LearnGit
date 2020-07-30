@@ -6,4 +6,7 @@ if checkout will update this file ???
 hahah 
 
 
-this line will be added, but not be commited 
+this line will be added, but not be commited
+ 
+
+is git diff for work station and stage? 
