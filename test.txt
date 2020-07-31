@@ -9,4 +9,8 @@ hahah
 this line will be added, but not be commited
  
 
-is git diff for work station and stage? 
+is git diff for work station and stage?
+
+now stage is empty, and test.txt is modified, if git diff find it ?
+
+git reset	? 
